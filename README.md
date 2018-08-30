@@ -1,5 +1,5 @@
 # Guestbook
-# Upload source to server
-# Config database
-# Access Guestbook
-# Login default: admin/123456
+## Upload source to server
+## Config database
+## Access Guestbook
+## Login default: admin/123456
