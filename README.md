@@ -1,5 +1,11 @@
-# Guestbook
-## Upload source to server
-## Config database
-## Access Guestbook
-## Login default: admin/123456
+## Installation
+
+1. Download the code
+
+## Configuration
+
+- Read and edit `config/database.php`.
+
+- Access Guestbook
+
+- Login default: admin/123456
