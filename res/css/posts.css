@@ -1,0 +1,71 @@
+.card {
+     background-color: transparent;
+     border: none;
+     color: white;
+}
+ body {
+     font-family: 'IBM Plex Sans', sans-serif;
+}
+ .visitor {
+     font-family: 'Caveat', cursive;
+     font-size: 20px;
+}
+ .fa {
+     color:#C81C3C;
+}
+ .footer {
+     position: fixed;
+     left: 60%;
+     bottom: 2%;
+     width: 100%;
+     color: white;
+     text-align: center;
+     background-color: none;
+}
+ .page-link {
+     background-color: transparent;
+     border: none;
+     color: white;
+}
+ .page-link:hover {
+     background-color: #C81C3C;
+     color: white;
+}
+ #admin-login {
+     left: 10%;
+     position: fixed;
+     bottom: 4%;
+     color: black;
+}
+ #admin-logout {
+     left: 10%;
+     position: fixed;
+     bottom: 4%;
+     color: black;
+}
+ .w3-sidebar {
+     height: 100%;
+     background-color: #fff;
+     position: fixed !important;
+     z-index: 1;
+     overflow: auto;
+     width:25%;
+     text-align: center;
+}
+ .fa-div {
+     margin-left: 80%;
+}
+ .date-time {
+     font-size: 70%;
+}
+ .w3-container {
+     background-color: #383842;
+    min-height: 100vh;
+}
+ .page-content {
+     margin-left:25%;
+}
+.page-item.active .page-link {
+    background-color: #C81C3C;
+    border-color: none;
+}
