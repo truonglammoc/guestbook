@@ -6,6 +6,8 @@
 
 - Read and edit `config/database.php`.
 
-- Access Guestbook
+- import from file `dump-guestbook-201808301504.sql` to database
+
+- Access Guestbook page
 
 - Login default: admin/123456
